@@ -524,6 +524,7 @@ class DatabaseInterface
 	private $username = null;
 	private $password = null;
 	private $statementHandle = null;
+	private $results = null;
 	
 	public function __construct($hostname, $databaseName, $username, $password)
 	{
@@ -617,9 +618,25 @@ class DatabaseInterface
 		#-------------------------------
 		# run the query
 		#-------------------------------
-		$results =  $statementHandle->execute();
+		$status = $statementHandle->execute($boundParameters);
+
+		#-------------------------------
+		# fetch any results if available
+		#-------------------------------
+		if ($statementHandle->columnCount()) {
+			$rowNumber = 0;
+			while ($row = $statementHandle->fetch()) {
+				$rowNumber++;
+				$this->results[$rowNumber] = $row;
+			}
+		}
+
+		#-------------------------------
+		# close the statement handle and
+		# retun the status of the 
+		#-------------------------------
 		$this->statementHandle = null;
-		return $results;
+		return $status;
 	}
 }
 
