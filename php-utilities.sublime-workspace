@@ -1,0 +1,1516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"star",
+				"startingPosition"
+			],
+			[
+				"text",
+				"textFile"
+			],
+			[
+				"file",
+				"file_get_contents"
+			],
+			[
+				"tex",
+				"textFile"
+			],
+			[
+				"dire",
+				"directoryTree"
+			],
+			[
+				"compre",
+				"compressString"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"Deve",
+				"developmentMode"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"ob_e",
+				"ob_end_flush"
+			],
+			[
+				"devel",
+				"developmentMode"
+			],
+			[
+				"moni",
+				"monitorList"
+			],
+			[
+				"gz",
+				"gzdecode"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"de",
+				"decompress"
+			],
+			[
+				"dpe",
+				"dependencyList"
+			],
+			[
+				"ma",
+				"maxWidth"
+			],
+			[
+				"site",
+				"siteEncodings"
+			],
+			[
+				"ini",
+				"initializeSiteLanguages"
+			],
+			[
+				"footer",
+				"footerList"
+			],
+			[
+				"foo",
+				"footerList"
+			],
+			[
+				"place",
+				"placeholderName"
+			],
+			[
+				"date_d",
+				"date_default_timezone_set"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"subTe",
+				"subTemplateList"
+			],
+			[
+				"plac",
+				"placeholderName"
+			],
+			[
+				"bo",
+				"boilerplateTemplatePath"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"gener",
+				"generateUrlToolkit"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"re",
+				"replacementText"
+			],
+			[
+				"web",
+				"webserverErrorCode"
+			],
+			[
+				"link",
+				"linkName"
+			],
+			[
+				"template",
+				"templateName"
+			],
+			[
+				"we",
+				"webserverErrorCode"
+			],
+			[
+				"error",
+				"error404"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"lo",
+				"localizePage"
+			],
+			[
+				"local",
+				"localization"
+			],
+			[
+				"language",
+				"languageCode"
+			],
+			[
+				"decom",
+				"decompressTranslation"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"php",
+				"phpVariableSummary"
+			],
+			[
+				"phpVariable",
+				"phpVariableSummary"
+			],
+			[
+				"phpVa",
+				"phpVariableSummary"
+			],
+			[
+				"htm",
+				"HtmlInterface"
+			],
+			[
+				"vari",
+				"variableHeadingCount"
+			],
+			[
+				"sele",
+				"selectedIndex"
+			],
+			[
+				"func",
+				"functionHeadingCount"
+			],
+			[
+				"set",
+				"setVariableData"
+			],
+			[
+				"frame",
+				"frameCount"
+			],
+			[
+				"fr",
+				"frameCount"
+			],
+			[
+				"s",
+				"selectedTab"
+			],
+			[
+				"dis",
+				"displayScript"
+			],
+			[
+				"display",
+				"displayScript"
+			],
+			[
+				"displ",
+				"displayByFunction"
+			],
+			[
+				"fu",
+				"functionList"
+			],
+			[
+				"disp",
+				"displayByVariable"
+			],
+			[
+				"html",
+				"htmlspecialchars_decode"
+			],
+			[
+				"json",
+				"jsonObject"
+			],
+			[
+				"jso",
+				"jsonVariable"
+			],
+			[
+				"call",
+				"callNumber"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"cal",
+				"callNumber"
+			],
+			[
+				"vaiable",
+				"variableWatchList"
+			],
+			[
+				"variable",
+				"variableWatchList"
+			],
+			[
+				"ob_g",
+				"ob_get_clean"
+			],
+			[
+				"va",
+				"variable"
+			],
+			[
+				"include",
+				"includeFile"
+			],
+			[
+				"dir",
+				"directoryTree"
+			],
+			[
+				"check",
+				"checkWritePermissions"
+			],
+			[
+				"spl",
+				"spl_autoload_register"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"ht",
+				"htmlspecialchars_decode"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"getRe",
+				"getRelativeFilePath"
+			],
+			[
+				"deco",
+				"decompressTranslation"
+			],
+			[
+				"pre",
+				"preg_match"
+			],
+			[
+				"sourc",
+				"sourcePath"
+			],
+			[
+				"library",
+				"libraryName"
+			],
+			[
+				"source",
+				"sourceList"
+			],
+			[
+				"java",
+				"javascriptList"
+			],
+			[
+				"func_",
+				"func_get_args"
+			],
+			[
+				"directory",
+				"directoryTree"
+			],
+			[
+				"director",
+				"directoryTree"
+			],
+			[
+				"cur",
+				"currentWorkingDirectory"
+			],
+			[
+				"rel",
+				"relativePath"
+			],
+			[
+				"current",
+				"currentFile"
+			],
+			[
+				"to",
+				"toRelativePath"
+			],
+			[
+				"fil",
+				"filePath"
+			],
+			[
+				"direct",
+				"directoryList"
+			],
+			[
+				"doc",
+				"documentRoot"
+			],
+			[
+				"creat",
+				"createDirectoryTree"
+			],
+			[
+				"direc",
+				"directoryTree"
+			],
+			[
+				"libr",
+				"libraryName"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"vice",
+				"viceroy"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"vic",
+				"viceroyName"
+			],
+			[
+				"vi",
+				"viceroyName"
+			],
+			[
+				"ja",
+				"javascript"
+			],
+			[
+				"rend",
+				"renderingText"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"repla",
+				"replacementText"
+			],
+			[
+				"replac",
+				"replacement"
+			],
+			[
+				"rep",
+				"replacementTextList"
+			],
+			[
+				"loo",
+				"loopName"
+			],
+			[
+				"replacement",
+				"replacementText"
+			],
+			[
+				"render",
+				"renderedTemplate"
+			],
+			[
+				"rec",
+				"replacementTextList"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"loop",
+				"loopName"
+			],
+			[
+				"repl",
+				"replacementTextList"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"function",
+				"functionParameter"
+			],
+			[
+				"ren",
+				"renderTemplateTag"
+			],
+			[
+				"TEMPL",
+				"TEMPLATE_FUNCTION"
+			],
+			[
+				"TEMP",
+				"TEMPLATE_LOOP"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"pr",
+				"preg_match"
+			],
+			[
+				"Temp",
+				"TEMPLATE_TAG"
+			],
+			[
+				"ta",
+				"tagName"
+			],
+			[
+				"sp",
+				"sprintf"
+			],
+			[
+				"tempa",
+				"templateFile"
+			],
+			[
+				"tmp",
+				"templatePath"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"syvb",
+				"Set Syntax: VBScript"
+			],
+			[
+				"syv",
+				"Set Syntax: VBScript"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ynphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"to",
+				"View: Toggle Tabs"
+			],
+			[
+				"sytph",
+				"Set Syntax: PHP"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"subl",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"synj",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"tog",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syna",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tosid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"synba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sy ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"snip",
+				"Snippet: if … fi"
+			],
+			[
+				"sy m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sy bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"snippet",
+				"Snippet: define(…, …)"
+			],
+			[
+				"snippet do",
+				"Snippet: Start Docblock"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"syn ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/W/nexocentric-studios-broilerplate/templates/404.tmpl",
+		"/W/nexocentric-studios-broilerplate/site/footer/about.php",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/Site.php",
+		"/W/nexocentric-studios-broilerplate/templates/main.tmpl",
+		"/W/nexocentric-studios-broilerplate/site/main.php",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/Template.php",
+		"/W/nexocentric-studios-broilerplate/templates/menu.tmpl",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/Webpage.php",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/Utilities.php",
+		"/W/nexocentric-studios-broilerplate/lorem-ipsum/zh",
+		"/W/nexocentric-studios-broilerplate/templates/development-boilerplate.tmpl",
+		"/W/nexocentric-studios-broilerplate/lorem-ipsum/jp",
+		"/W/nexocentric-studios-broilerplate/lorem-ipsum/en",
+		"/W/nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/W/nexocentric-studios-broilerplate/templates/showcase.tmpl",
+		"/W/nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.auto-reload.js",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/AjaxHandler.php",
+		"/W/nexocentric-studios-broilerplate/templates/auto-reload.tmpl",
+		"/W/nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.localization.js",
+		"/W/nexocentric-studios-broilerplate/templates/production-boilerplate.tmpl",
+		"/W/nexocentric-studios-broilerplate/templates/logo.tmpl",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/LanguageUtilities.php",
+		"/W/nexocentric-studios-broilerplate/templates/localization.tmpl",
+		"/C/Users/nexocentric/Desktop/foundation-5.2.1.custom/index.html",
+		"/W/nexocentric-studios-broilerplate/javascripts/general/gunzip.min.js",
+		"/W/nexocentric-studios-broilerplate/templates/footer.tmpl",
+		"/W/nexocentric-studios-broilerplate/configurations/host/urltoolkit",
+		"/W/balinese-spa-frangipani/templates/development-template.tmpl",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/DirectoryTree.php",
+		"/W/nexocentric-studios-broilerplate/templates/about.tmpl",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/HtmlInterface.php",
+		"/W/nexocentric-studios-broilerplate/configurations/administration.php",
+		"/W/nexocentric-studios-broilerplate/configurations/administration.tmpl",
+		"/W/nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.autoreload.js",
+		"/W/nexocentric-studios-broilerplate/templates/development-template.tmpl",
+		"/W/nexocentric-studios-broilerplate/templates/php-output-debug.tmpl",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/SessionController.php",
+		"/W/nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.jquery-cdn-fallback.js",
+		"/W/nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.page-initialization.js",
+		"/W/balinese-spa-frangipani/libraries/nexocentric-studios/Database.php",
+		"/W/balinese-spa-frangipani/sql/localizations.php",
+		"/W/balinese-spa-frangipani/sql/javascripts.php",
+		"/W/nexocentric-studios-broilerplate/libraries/nexocentric-studios/WebServerErrorPage.php",
+		"/W/nexocentric-studios-broilerplate/templates/500.tmpl",
+		"/W/nexocentric-studios-broilerplate/templates/301.tmpl",
+		"/W/nexocentric-studios-broilerplate/about-the-job.txt",
+		"/W/nexocentric-studios-broilerplate/templates/401.tmpl",
+		"/W/nexocentric-studios-broilerplate/templates/403.tmpl",
+		"/W/nexocentric-studios-broilerplate/templates/409.tmpl",
+		"/W/nexocentric-studios-broilerplate/templates/400.tmpl",
+		"/W/nexocentric-studios-broilerplate/error_log.txt",
+		"/W/nexocentric-studios-broilerplate/configurations/url-toolkit",
+		"/W/nexocentric-studios-broilerplate/404.html",
+		"/W/nexocentric-studios-broilerplate/templates/php-output-debug.html",
+		"/W/nexocentric-studios-broilerplate/templates/development-template.html",
+		"/W/nexocentric-studios-broilerplate/libraries/HtmlInterface.php",
+		"/W/nexocentric-studios-broilerplate/libraries/LibraryDefines.php",
+		"/W/nexocentric-studios-broilerplate/javascripts/main.js",
+		"/W/nexocentric-studios-broilerplate/javascripts/gunzip.min.js",
+		"/W/nexocentric-studios-broilerplate/javascripts/nexocentric/nexocentric.autoreload.js",
+		"/W/nexocentric-studios-broilerplate/libraries/SessionController.php",
+		"/W/nexocentric-studios-broilerplate/libraries/Messages.php",
+		"/W/nexocentric-studios-broilerplate/Site.php",
+		"/W/nexocentric-studios-broilerplate/libraries/Utilities.php",
+		"/W/nexocentric-studios-broilerplate/libraries/DirectoryTree.php",
+		"/W/nexocentric-studios-broilerplate/test-template.html",
+		"/W/nexocentric-studios-broilerplate/javascripts/nexocentric/nexocentric.localization.js",
+		"/W/nexocentric-studios-broilerplate/javascripts/nexocentric/nexocentric.variable-watch-list.js",
+		"/W/nexocentric-studios-broilerplate/Webpage.php",
+		"/W/nexocentric-studios-broilerplate/Template.php",
+		"/W/nexocentric-studios-broilerplate/main.php",
+		"/W/nexocentric-studios-broilerplate/libraries/AjaxHandler.php",
+		"/C/Dropbox/portable/applications/sublime/windows-64/Data/Packages/User/Preferences.sublime-settings",
+		"/W/nexocentric-studios-boilerplate/javascripts/foundation/foundation.offcanvas.js",
+		"/W/nexocentric-studios-boilerplate/css/foundation.css",
+		"/W/nexocentric-studios-boilerplate/css/foundation.min.css",
+		"/W/nexocentric-studios-boilerplate/css/normalize.css",
+		"/C/Google Drive/development/dicollator/dicollator_test/php/classes/AjaxFunctions.php",
+		"/C/Google Drive/development/dicollator/dicollator_test/libraries/nds_web_libraries/classes/Check.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/LibraryDefines.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/classes/SessionController.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/classes/AjaxHandler.php",
+		"/C/Users/nexocentric/Google ドライブ/development/nexocentric_design_studio/nds_live/libraries/nds_web_libraries/classes/NavigationMenu.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/classes/LanguageUtilities.php",
+		"/C/Users/nexocentric/Google ドライブ/development/nexocentric_design_studio/nds_live/libraries/nds_web_libraries/classes/JavascriptInterface.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_live/libraries/nds_libraries/LibraryDefines.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/classes/BaseClass.php",
+		"/W/nexocentric-studios-boilerplate/index.html",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_live/libraries/nds_libraries/classes/UploadController.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_live/libraries/nds_libraries/classes/NdsExpectations.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_live/libraries/nds_libraries/classes/Debugger.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/files_for_top_level/SiteDefines.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/classes/Structure.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/classes/ServerFile.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/classes/Multithread.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/classes/Check.php",
+		"/C/Users/nexocentric/Google ドライブ/development/dicollator/dicollator_test/libraries/nds_web_libraries/site_settings.php",
+		"/W/nexocentric-studios-boilerplate/javascripts/foundation/foundation.clearing.js",
+		"/W/nexocentric-studios-boilerplate/javascripts/foundation/foundation.alerts.js",
+		"/W/nexocentric-studios-boilerplate/javascripts/foundation/foundation.js",
+		"/W/nexocentric-studios-boilerplate/index.php",
+		"/W/nexocentric-studios-boilerplate/SiteDefines.php",
+		"/W/nexocentric-studios-boilerplate/php-packages-used-on-my-server.txt",
+		"/W/nexocentric-studios-boilerplate/libraries/HtmlInterface.php",
+		"/W/nexocentric-studios-boilerplate/libraries/Webpage.php",
+		"/W/nexocentric-studios-boilerplate/Webpage.php",
+		"/W/nexocentric-studios-boilerplate/auto-update-flickr.html",
+		"/C/Users/nexocentric/Downloads/index.php",
+		"/C/cygwin64/development/silver-studded-blue/bash_script_template.sh",
+		"/C/cygwin64/development/silver-studded-blue/bash-scripting-tools.sh",
+		"/C/cygwin64/development/silver-studded-blue/scripting-tools.sh",
+		"/C/cygwin64/development/silver-studded-blue/.travis.yml",
+		"/C/cygwin64/development/silver-studded-blue/.gitignore",
+		"/C/servers/ch-you/public_html/postldapadmin/tmpl/admin_user_mod.tmpl",
+		"/C/servers/ch-you/public_html/postldapadmin/lib/dglibchyou",
+		"/C/servers/ch-you/public_html/postldapadmin/htdocs/admin/postldapadmin/user/search/mod.php",
+		"/C/servers/ch-you/public_html/postldapadmin/etc/ch-you.ne.jp/msg_file",
+		"//192.168.2.171/dzakuma/public_html/hosting-isp/lib/dglibdovecot",
+		"/C/servers/ch-you/public_html/postldapadmin/htdocs/admin/postldapadmin/user/search/index.php",
+		"//192.168.2.128/dzakuma/public_html/ch-you/auto_post_tar.sh",
+		"/C/Users/dzakuma/AppData/Roaming/LibreOffice/3/user/basic/Standard/Module1.xba",
+		"//192.168.2.128/dzakuma/public_html/postldapadmin/htdocs/admin/style.css",
+		"//192.168.2.128/dzakuma/public_html/postldapadmin/tmpl/admin_user_search.tmpl",
+		"/C/servers/ch-you/public_html/ch-you/auto_post_tar.sh",
+		"/C/servers/ch-you/dglibchyou",
+		"/C/servers/ch-you/public_html/postldapadmin/lib/dglibpostldapadmin",
+		"/C/servers/ch-you/public_html/postldapadmin/lib/dglibsess"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"W:\\html-interface"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"directoryTree",
+			"$directoryTree",
+			"/\\*|\\* |\\*/|\\t$|^\\n",
+			"//",
+			"\\t$",
+			"#",
+			"subTemplateL",
+			"><a",
+			"m3",
+			"m2",
+			"m1",
+			"3",
+			"2",
+			"1",
+			"$",
+			"\n",
+			"。",
+			"、",
+			".",
+			",",
+			"！",
+			"。",
+			"，",
+			"about",
+			"450",
+			"1000",
+			"showUpdated",
+			"pollUpdates",
+			"monitorFileChanges",
+			"$updateFlag",
+			"checkPost",
+			"retryCount",
+			" )",
+			"( ",
+			"if(",
+			"c function c",
+			"n check",
+			"check",
+			"#===========================================================\n	# [author]\n	# Dzakuma, Dodzidenu\n	# [summary]\n	# [parameters]\n	# [return]\n	#===========================================================",
+			"#===========================================================\n	# [author]\n	# Dzakuma, Dodzidenu\n	# [summary]\n	# [parameters]\n	# [return]\n	#===========================================================	",
+			"previousUpdateStatusListCompressed",
+			"$monitorList",
+			"static",
+			"decompressed",
+			"monitor",
+			"$this->watchVariable($this->pageText);",
+			"languageCode",
+			"radius",
+			"php-console-link",
+			"language",
+			"3",
+			"2",
+			"1",
+			"div",
+			"		{",
+			"if(",
+			" )",
+			"( ",
+			"static",
+			"footer",
+			"function",
+			"footer",
+			"var_dump(",
+			"$this->directoryTree->getFilePath(",
+			"this->direc",
+			"templatePath",
+			"template ",
+			"function",
+			"	{",
+			"		{",
+			"			{",
+			"		{",
+			"			",
+			"		",
+			" )",
+			"( ",
+			"large",
+			"publicDocumentRoot",
+			"documentRoot",
+			"in_a",
+			"basename",
+			"$comment",
+			"\" . \"",
+			"replacmentText",
+			"function render",
+			"render",
+			"\"\") {",
+			"webserverErrorPage",
+			"WebServerErrorPage",
+			"webserverErrorPage",
+			"WebServerErrorPage",
+			"webserverErrorCode",
+			"link",
+			"$link",
+			"link",
+			"abstract ",
+			".html",
+			"$",
+			"indentLevel",
+			"viceroy",
+			"\">",
+			"> <",
+			" ",
+			"<li>",
+			"radios",
+			"p(\"",
+			"medium-3",
+			"p(\"",
+			"phpVariabledata",
+			"Data",
+			"summary",
+			"phpVariabledata",
+			"medium-3 large-2 c",
+			"->",
+			"<p class=\"phpVariabledata\">",
+			"lookupInformation",
+			"<p></p>",
+			"frame1",
+			" active",
+			"frameCount",
+			" i",
+			"i",
+			"\"",
+			"phpVariableWatchFrame",
+			"Tab ",
+			"> <",
+			"text-right",
+			"javascript:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"copyright",
+			"// Work     : (ml)Silkworm",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.phpunit":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 81.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ui",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/Utilities.php"
+			],
+			[
+				"server",
+				"nexocentric-studios-broilerplate/php-packages-used-on-my-server.txt"
+			],
+			[
+				"maint",
+				"nexocentric-studios-broilerplate/templates/main.tmpl"
+			],
+			[
+				"git",
+				"nexocentric-studios-broilerplate/.gitignore"
+			],
+			[
+				"php",
+				"nexocentric-studios-broilerplate/php-packages-used-on-my-server.txt"
+			],
+			[
+				"404",
+				"nexocentric-studios-broilerplate/templates/404.tmpl"
+			],
+			[
+				"we",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/WebServerErrorPage.php"
+			],
+			[
+				"site",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/Site.php"
+			],
+			[
+				"temp",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/Template.php"
+			],
+			[
+				"main.pp",
+				"nexocentric-studios-broilerplate/site/main.php"
+			],
+			[
+				"main.tm",
+				"nexocentric-studios-broilerplate/templates/main.tmpl"
+			],
+			[
+				"show",
+				"nexocentric-studios-broilerplate/templates/showcase.tmpl"
+			],
+			[
+				"men",
+				"nexocentric-studios-broilerplate/templates/menu.tmpl"
+			],
+			[
+				"zh",
+				"nexocentric-studios-broilerplate/lorem-ipsum/zh"
+			],
+			[
+				"main.t",
+				"nexocentric-studios-broilerplate/templates/main.tmpl"
+			],
+			[
+				"deve",
+				"nexocentric-studios-broilerplate/templates/development-boilerplate.tmpl"
+			],
+			[
+				"main",
+				"nexocentric-studios-broilerplate/site/main.php"
+			],
+			[
+				"nexoc.js",
+				"nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.js"
+			],
+			[
+				"autorelo",
+				"nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.auto-reload.js"
+			],
+			[
+				"nexocentric-studios.j",
+				"nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.js"
+			],
+			[
+				"de",
+				"nexocentric-studios-broilerplate/templates/development-boilerplate.tmpl"
+			],
+			[
+				"rel",
+				"nexocentric-studios-broilerplate/templates/auto-reload.tmpl"
+			],
+			[
+				"relo.",
+				"nexocentric-studios-broilerplate/templates/auto-reload.tmpl"
+			],
+			[
+				"uti",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/Utilities.php"
+			],
+			[
+				"nex",
+				"nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.localization.js"
+			],
+			[
+				"auto",
+				"nexocentric-studios-broilerplate/templates/auto-reload.tmpl"
+			],
+			[
+				"au",
+				"nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.auto-reload.js"
+			],
+			[
+				"pro",
+				"nexocentric-studios-broilerplate/templates/production-boilerplate.tmpl"
+			],
+			[
+				"g",
+				"nexocentric-studios-broilerplate/javascripts/general/gunzip.min.js"
+			],
+			[
+				"ajp",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/AjaxHandler.php"
+			],
+			[
+				"nexocentric-studios.",
+				"nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.js"
+			],
+			[
+				"log",
+				"nexocentric-studios-broilerplate/templates/logo.tmpl"
+			],
+			[
+				"loca",
+				"nexocentric-studios-broilerplate/javascripts/nexocentric-studios/nexocentric-studios.localization.js"
+			],
+			[
+				"lan",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/LanguageUtilities.php"
+			],
+			[
+				"logo",
+				"nexocentric-studios-broilerplate/templates/logo.tmpl"
+			],
+			[
+				"te",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/Template.php"
+			],
+			[
+				"prod",
+				"nexocentric-studios-broilerplate/templates/production-boilerplate.tmpl"
+			],
+			[
+				"host/",
+				"nexocentric-studios-broilerplate/configurations/host/urltoolkit"
+			],
+			[
+				"",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/Site.php"
+			],
+			[
+				"sit",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/Site.php"
+			],
+			[
+				"url",
+				"nexocentric-studios-broilerplate/configurations/host/urltoolkit"
+			],
+			[
+				"tmp",
+				"nexocentric-studios-broilerplate/templates/301.tmpl"
+			],
+			[
+				"abou",
+				"nexocentric-studios-broilerplate/about-the-job.txt"
+			],
+			[
+				"session",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/SessionController.php"
+			],
+			[
+				"u",
+				"nexocentric-studios-broilerplate/configurations/url-toolkit"
+			],
+			[
+				"tmpl",
+				"nexocentric-studios-broilerplate/templates/php-output-debug.tmpl"
+			],
+			[
+				"ur",
+				"nexocentric-studios-broilerplate/configurations/url-toolkit"
+			],
+			[
+				"ut",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/Utilities.php"
+			],
+			[
+				"htm",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/HtmlInterface.php"
+			],
+			[
+				".php",
+				"nexocentric-studios-broilerplate/site/footer/about.php"
+			],
+			[
+				".html",
+				"nexocentric-studios-broilerplate/templates/php-output-debug.html"
+			],
+			[
+				"dire",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/DirectoryTree.php"
+			],
+			[
+				"w",
+				"nexocentric-studios-broilerplate/libraries/nexocentric-studios/Webpage.php"
+			],
+			[
+				"loc",
+				"javascripts/nexocentric/nexocentric.localization.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"nexocen",
+				"javascripts/nexocentric/nexocentric.localization.js"
+			],
+			[
+				"nexocentric.",
+				"javascripts/nexocentric/nexocentric.autoreload.js"
+			],
+			[
+				"found",
+				"javascripts/foundation/foundation.clearing.js"
+			],
+			[
+				"foundation.",
+				"javascripts/foundation/foundation.js"
+			],
+			[
+				"html",
+				"libraries/HtmlInterface.php"
+			],
+			[
+				"li",
+				"libraries/LibraryDefines.php"
+			],
+			[
+				"ax",
+				"libraries/AjaxHandler.php"
+			],
+			[
+				"aj",
+				"libraries/AjaxHandler.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"ba",
+				"bash_script_template.sh"
+			],
+			[
+				"y",
+				".travis.yml"
+			],
+			[
+				"sc",
+				"scripting-tools.sh"
+			],
+			[
+				"re",
+				"README[JP].md"
+			],
+			[
+				"rea",
+				"README[ZH].md"
+			],
+			[
+				"xm",
+				"examples/xml.php"
+			],
+			[
+				"si",
+				"Silkworm.php"
+			],
+			[
+				"boo",
+				"tests/bootstrap.php"
+			],
+			[
+				"x",
+				"tests/phpunit.xml"
+			],
+			[
+				"t",
+				"tests/SilkwormTest.php"
+			],
+			[
+				"jp",
+				"README[JP].md"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"j",
+				"README[JP].md"
+			],
+			[
+				"no",
+				"examples/novels.xml"
+			],
+			[
+				"xml",
+				"examples/xml.php"
+			],
+			[
+				"ta",
+				"examples/tables.php"
+			],
+			[
+				"s",
+				"tests/SilkwormTest.php"
+			],
+			[
+				"hy",
+				"HyperTextSilkworm.php"
+			],
+			[
+				"h",
+				"tests/HtmlOutputTest.php"
+			],
+			[
+				"r",
+				"README"
+			],
+			[
+				"q",
+				"examples/quick-start.php"
+			],
+			[
+				"m",
+				"examples/modular.php"
+			],
+			[
+				"ht",
+				"HtmlInterface.php"
+			],
+			[
+				"hot",
+				"tests/HtmlOutputTest.php"
+			],
+			[
+				"ho",
+				"tests/HtmlOutputTest.php"
+			],
+			[
+				"se",
+				"/W/terminus/setup.sh"
+			],
+			[
+				"c",
+				"/W/terminus/configure.sh"
+			],
+			[
+				"d",
+				"/W/terminus/debugging-tools.sh"
+			],
+			[
+				"co",
+				"/W/terminus/configure.sh"
+			],
+			[
+				"con",
+				"/W/terminus/configure.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
