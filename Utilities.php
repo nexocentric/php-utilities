@@ -516,6 +516,113 @@ class Timer
 	}
 }
 
+class DatabaseInterface
+{
+	private $databaseHandle = null;
+	private $hostname = null;
+	private $databaseName = null;
+	private $username = null;
+	private $password = null;
+	private $statementHandle = null;
+	
+	public function __construct($hostname, $databaseName, $username, $password)
+	{
+		$this->hostname = $hostname;
+		$this->databaseName = $databaseName;
+		$this->username = $username;
+		$this->password = $password;
+	}
+
+	public function initialize($databaseType = "mysql")
+	{
+		#-------------------------------
+		# initializations
+		#-------------------------------
+		$hostname = $this->hostname;
+		$databaseName = $this->databaseName;
+		$username = $this->username;
+		$password = $this->password;
+
+		try {
+			# MySQL with PDO_MYSQL
+			$this->databaseHandle = new PDO(
+				"$databaseType:host=$hostname;dbname=$databaseName", 
+				$username, 
+				$password
+			);
+			$this->databaseHandle->setAttribute(
+				PDO::ATTR_ERRMODE, 
+				PDO::ERRMODE_WARNING
+			);
+		}
+		catch (PDOException $e) {
+			printf("<p>Fail!</p>");
+			$this->databaseHandle = null;
+			echo $e->getMessage();
+			return false;
+		}
+		return true;
+	}
+
+	public function prepareStatement($statement)
+	{
+		#-------------------------------
+		# initializations
+		#-------------------------------
+		$databaseHandle = $this->databaseHandle;
+		$statementHandle = null;
+		
+		#-------------------------------
+		# safety check
+		#-------------------------------
+		if (is_null($databaseHandle)) {
+			return false;
+		}
+
+		#-------------------------------
+		# prepare the statement
+		#-------------------------------
+		$statementHandle = $databaseHandle->prepare($statement);
+		if (!is_object($statementHandle)) {
+			# failure
+			return false;
+		}
+
+		#-------------------------------
+		# save the statement handle
+		#-------------------------------
+		$this->statementHandle = $statementHandle;
+		return true;
+	}
+
+	public function executeQuery($boundParameters = null)
+	{
+		#-------------------------------
+		# initializations
+		#-------------------------------
+		$databaseHandle = $this->databaseHandle;
+		$statementHandle = $this->statementHandle;
+		# all parameters need to be arrays
+		if (!is_null($boundParameters) && !is_array($boundParameters)) {
+			$boundParameters = (array)$boundParameters;
+		}
+
+		#-------------------------------
+		# safety check
+		#-------------------------------
+		if (is_null($databaseHandle) || is_null($statementHandle)) {
+			return false;
+		}
+
+		#-------------------------------
+		# run the query
+		#-------------------------------
+		$results =  $statementHandle->execute();
+		$this->statementHandle = null;
+		return $results;
+	}
+}
+
 #═══════════════════════════════════════════════════════════════════════════════
 # [work]
 # Nexocentric Studios Site (defines)
