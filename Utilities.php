@@ -516,6 +516,36 @@ class Timer
 	}
 }
 
+#───────────────────────────────────────────────────────────────────────────────
+# [author]
+# Dodzi Y. Dzakuma
+# [summary]
+# Just a small interface for doing quick database work.
+# [usage]
+# Use the constructor to make the class and then run a the intialize function.
+# !!!! Always run the intialize function !!!!!
+#
+# Usage example below
+#
+# $hostname = "localhost";
+# $databaseName = "test_database";
+# $username = "test_user";
+# $password = "test_pass";
+#
+# $database = new DatabaseInterface($hostname, $databaseName, $username, $password);
+# if ($database->initialize()) {
+# 	printf("<p>Initalized!</p>");
+# }
+# if ($database->prepareStatement("SELECT * FROM test_table")) {
+# 	printf("<p>Statement prepared!</p>");
+# }
+# $results = $database->executeQuery();
+#
+# $results = $database->getResults();
+#
+# printf("<p>Something?</p>");
+# var_dump($results);
+#───────────────────────────────────────────────────────────────────────────────
 class DatabaseInterface
 {
 	private $databaseHandle = null;
@@ -525,7 +555,14 @@ class DatabaseInterface
 	private $password = null;
 	private $statementHandle = null;
 	private $results = null;
-	
+
+	#===========================================================
+	# [author]
+	# Dodzi Y. Dzakuma
+	# [summary]
+	# [parameters]
+	# [return]
+	#===========================================================	
 	public function __construct($hostname, $databaseName, $username, $password)
 	{
 		$this->hostname = $hostname;
@@ -534,6 +571,13 @@ class DatabaseInterface
 		$this->password = $password;
 	}
 
+	#===========================================================
+	# [author]
+	# Dodzi Y. Dzakuma
+	# [summary]
+	# [parameters]
+	# [return]
+	#===========================================================
 	public function initialize($databaseType = "mysql")
 	{
 		#-------------------------------
@@ -565,6 +609,16 @@ class DatabaseInterface
 		return true;
 	}
 
+	#===========================================================
+	# [author]
+	# Dodzi Y. Dzakuma
+	# [summary]
+	# [parameters]
+	# prepare your parameters like this (:name, :addr, :city)
+	# use an associative array with similar names.
+	# questions are okay too if you don't know the names.
+	# [return]
+	#===========================================================
 	public function prepareStatement($statement)
 	{
 		#-------------------------------
@@ -596,6 +650,13 @@ class DatabaseInterface
 		return true;
 	}
 
+	#===========================================================
+	# [author]
+	# Dodzi Y. Dzakuma
+	# [summary]
+	# [parameters]
+	# [return]
+	#===========================================================
 	public function executeQuery($boundParameters = null)
 	{
 		#-------------------------------
@@ -624,6 +685,7 @@ class DatabaseInterface
 		# fetch any results if available
 		#-------------------------------
 		if ($statementHandle->columnCount()) {
+			$statementHandle->setFetchMode(PDO::FETCH_OBJ);
 			$rowNumber = 0;
 			while ($row = $statementHandle->fetch()) {
 				$rowNumber++;
@@ -637,6 +699,20 @@ class DatabaseInterface
 		#-------------------------------
 		$this->statementHandle = null;
 		return $status;
+	}
+
+	#===========================================================
+	# [author]
+	# Dodzi Y. Dzakuma
+	# [summary]
+	# [parameters]
+	# [return]
+	#===========================================================
+	public function getResults()
+	{
+		$results = $this->results;
+		$this->results = null;
+		return $results;
 	}
 }
 
